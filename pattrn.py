@@ -5,6 +5,7 @@ while i<=a:
     while j<=i:
         print("*",end='')
         j=j+2
+        j=j+3
     print()
     i=i+1
 
